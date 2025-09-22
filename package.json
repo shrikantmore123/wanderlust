@@ -11,7 +11,7 @@
     "url": "git+https://github.com/shrikantmore123/wonderlust.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shrikant More",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/shrikantmore123/wonderlust/issues"
@@ -20,6 +20,7 @@
   "dependencies": {
     "ejs": "^3.1.10",
     "express": "^4.21.2",
+    "method-override": "^3.0.0",
     "mongoose": "^8.18.1"
   }
 }
